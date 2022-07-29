@@ -22,3 +22,7 @@ else
 {
   document.querySelector("h1").innerHTML="Draw!";
 }
+function refreshPage() {
+       // What do I put here?
+       window.location.reload();
+   }
